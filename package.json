@@ -1,0 +1,24 @@
+{
+  "name": "vamo",
+  "version": "0.0.0",
+  "author": "Rafael <rafaelfr@outlook.com>",
+  "description": "Run Node scripts with dependencies without npm installing them",
+  "main": "index.js",
+  "bin": {
+    "vamo": "./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rfoel/vamo.git"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^6.1.0",
+    "detective": "^5.2.0"
+  },
+  "release": {
+    "branches": [
+      "main"
+    ]
+  }
+}
