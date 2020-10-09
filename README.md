@@ -1,5 +1,8 @@
 # vamo
 
+[![npm version](https://badge.fury.io/js/vamo.svg)](https://www.npmjs.com/package/vamo)
+[![GitHub license](https://img.shields.io/github/license/rfoel/vamo.svg)](https://github.com/rfoel/vamo/blob/master/LICENSE) ![GitHub stars](https://img.shields.io/github/stars/rfoel/vamo?style=social)
+
 Run Node scripts with dependencies without npm installing them.
 
 ## Quick start
@@ -49,4 +52,4 @@ Issues and pull requests are welcome.
 
 ## License
 
-[MIT](https://github.com/rfoell/install-latest/blob/master/LICENSE)
+[MIT](https://github.com/rfoell/vamo/blob/master/LICENSE)
